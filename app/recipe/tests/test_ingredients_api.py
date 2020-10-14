@@ -9,9 +9,7 @@ from core.models import Ingredient
 
 from recipe.serializers import IngredientSerializer
 
-
 INGREDIENTS_URL = reverse('recipe:ingredient-list')
-
 
 class PublicIngredientsApiTest(TestCase):
     """Test the publicity avaiable ingredients API"""
