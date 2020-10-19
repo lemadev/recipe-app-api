@@ -1,5 +1,5 @@
 # recipe-app-api
-Recipe app for source code
+Api para usuarios y recetas con ingredientes y tags. 
 
 #### Build in docker
 ```
